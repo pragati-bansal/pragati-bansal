@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pragati-bansal
 - 👀 I’m interested in .Coding.
-- 🌱 I’m currently learning ..Python and mysql.
+- 🌱 I’m a certified python programmer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .pragatibansal20@gmail.com.
 - 😄 Pronouns: ...
