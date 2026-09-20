@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently **Learning New Things about Tech**
 
-- 🌱 I’m currently learning **C**
-
 - 💬 Ask me about **Python Mysql**
 
 - 📫 How to reach me **pragatibansal20@gmail.com**
