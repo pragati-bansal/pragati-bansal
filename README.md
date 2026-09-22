@@ -1,6 +1,6 @@
 <img align="centre" width = "810" height="400" src="https://github.com/pragati-bansal/pragati-bansal/blob/main/banner.png">
 <h1 align="center">Hi 👋, I'm Pragati Bansal</h1>
-<h3 align="center">A passionate Data Science Student from India</h3>
+<h3 align="center">CSE Student Exploring Data Science.</h3>
 <img align="right" alt ="coding" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-bansal&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-bansal" /> </p>
